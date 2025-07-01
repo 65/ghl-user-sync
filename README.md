@@ -1,14 +1,5 @@
 # GoHighLevel User Sync
 
-Contributors: AI Assistant
-Donate Link: https://example.com/donate (Optional: Replace with your donation link)
-Tags: gohighlevel, crm, sync, user, role, oauth, integration, contacts
-Requires at least: 5.8
-Tested up to: 6.5
-Stable tag: 1.4.0
-License: GPL2
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
-
 Synchronizes WordPress user details (name, email, multiple roles) to GoHighLevel CRM using the upsert API with OAuth 2.0, with enhanced security.
 
 ## Description
